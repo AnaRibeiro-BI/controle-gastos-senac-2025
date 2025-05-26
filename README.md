@@ -26,7 +26,8 @@ Este projeto tem como objetivo analisar os **gastos realizados pelas Unidades Ex
 
 ## 🖼️ Prévia do Dashboard
 
-> Adicione aqui imagens/prints das principais páginas do seu relatório
+> ![image](https://github.com/user-attachments/assets/c405c719-d68b-4894-91eb-d4a40a0201a8)
+![image](https://github.com/user-attachments/assets/82f26a4f-9eda-4c24-80f7-e04b96c49829)
 
 ```markdown
 ![Página 1 - Visão Geral](imagens/visao_geral.png)
